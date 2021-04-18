@@ -1,0 +1,49 @@
+body {
+    background-image:url("Lion-HD-Wallpaper.jpg");
+    background-size: cover;
+}
+
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3 {
+    display: inline;
+}
+
+.heading button {
+    float: right;
+    margin-left: 10px;
+}
+
+.btn {
+    font-size: 22px;
+    border: 1px solid white;
+}
+
+#footer {
+    bottom: 0;
+    width: 100%;
+    background-color: aqua;
+    text-align: center;
+    line-height: 2;
+    position: relative;
+    font-size: 20px;
+}
+
+.wrist {
+    width: 200px;
+    height: 200px;
+}
+
+canvas {
+    border: 10px double mediumaquamarine;
+    box-shadow: 19px 25px 24px 4px rgba(102, 205, 170, 1);
+    -webkit-box-shadow: 19px 25px 24px 4px rgba(102, 205, 170, 1);
+    -moz-box-shadow: 19px 25px 24px 4px rgba(102, 205, 170, 1);
+}
+
+#canvas {
+    margin: 20px;
+}
